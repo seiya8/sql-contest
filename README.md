@@ -1,0 +1,1 @@
+solution of https://topsic-contest.jp/
